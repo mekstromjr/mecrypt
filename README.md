@@ -1,6 +1,6 @@
 # Mecrypt
 
-A quantum-resistant encryption and authentication tool demonstrating post-quantum cryptography concepts.
+A Hash-Based Exploration of Quantum-Resistant Encryption
 
 ## What It Does
 
