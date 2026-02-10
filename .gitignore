@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# mecrypt generated files
+messages/
+ciphertext.json
+message.json
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Project planning
+block2project.md
+
+.DS_Store
